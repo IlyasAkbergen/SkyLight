@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iDeaGet</string>
+    <string name="e_mail">Email</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="sigh_up">sign up</string>
+    <string name="via_api">You may sign in via social networks</string>
+    <string name="signedin">Already have an account?</string>
+    <string name="sign_in_upper">SIGN IN</string>
+    <string name="secondName">Second Name</string>
+    <string name="name">Name</string>
+    <string name="confirmPassword">Confirm Password</string>
+</resources>
